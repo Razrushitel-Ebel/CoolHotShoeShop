@@ -1,1 +1,5 @@
-# CoolHotShoeShop
+Название: "Египетский сандаль"
+
+Команда: Ерошин Никита, Потапов Илья
+
+Стек: Visual studio, Microsoft Excel
